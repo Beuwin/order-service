@@ -62,6 +62,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>validate</finalName>
 	</build>
 
 </project>
